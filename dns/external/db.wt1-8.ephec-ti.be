@@ -1,6 +1,6 @@
 $TTL 604800 
 $ORIGIN wt1-8.ephec-ti.be.
-@		IN 	SOA 	ns.wt1-8.ephec-ti.be. admin.wt1-8.ephec-ti.be. (
+@		IN	SOA	ns.wt1-8.ephec-ti.be. admin.wt1-8.ephec-ti.be. (
 		1	; serial
 		3600	; refresh
 		6	; retry 
